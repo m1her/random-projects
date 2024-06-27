@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Nanum+Brush+Script&family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Shadows+Into+Light&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap");
+
+.font-reddit {
+  font-family: "Reddit Mono", monospace;
+}
+
+.font-nanum-brush {
+  font-family: "Nanum Brush Script", cursive;
+}
+
+.font-lobster-two {
+  font-family: "Lobster Two", sans-serif;
+}
+
+.font-shadows {
+  font-family: "Shadows Into Light", cursive;
+}
+
+.font-comfortaa {
+  font-family: "Comfortaa", sans-serif;
+}
